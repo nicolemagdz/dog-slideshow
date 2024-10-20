@@ -1,1 +1,1 @@
-# dog-slideshow
+# infinite-dog-slideshow
